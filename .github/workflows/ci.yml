@@ -39,6 +39,3 @@ jobs:
 
       - name: Lint
         run: yarn lint
-
-      - name: Coverage
-        uses: codecov/codecov-action@v3

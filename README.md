@@ -3,7 +3,6 @@
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![Github Actions CI][github-actions-ci-src]][github-actions-ci-href]
-[![Codecov][codecov-src]][codecov-href]
 [![License][license-src]][license-href]
 
 > [Localforage](https://github.com/localForage/localForage) module for Nuxt.js
@@ -247,10 +246,6 @@ Copyright (c) João Pedro Antunes Silva
 [github-actions-ci-src]: https://github.com/JoaoPedroAS51/nuxt-localforage/workflows/ci/badge.svg
 
 [github-actions-ci-href]: https://github.com/JoaoPedroAS51/nuxt-localforage/actions?query=workflow%3Aci
-
-[codecov-src]: https://img.shields.io/codecov/c/github/JoaoPedroAS51/nuxt-localforage.svg
-
-[codecov-href]: https://codecov.io/gh/JoaoPedroAS51/nuxt-localforage
 
 [license-src]: https://img.shields.io/npm/l/nuxt-localforage.svg
 
